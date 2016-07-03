@@ -3,7 +3,11 @@ Build Tower by given number of floors (integer and always greater than 0) and th
 
 # for example, a tower of 3 floors looks like below:
 [
+
   '  *  ', 
+  
   ' *** ', 
+  
   '*****'
+
 ]
